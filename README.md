@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics, Embedded Systems and Programming in C++
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on anything that interests me
-- 📫 How to reach me via me email address at adam_three_one_four_one_dot_hamilton_at_gmail.com
+- 📫 How to reach me via me email address at adam_three_one_four_one_dot_hamilton_at_gmail_dot_com
   Remove the underscores, replace the numbered words with numbers
   eg. joe_dot_bloggs_one_two_three_four_at_example.com is joe.bloggs1234@example.com
   
