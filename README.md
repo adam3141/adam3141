@@ -8,6 +8,8 @@
   
 I am doing this to prevent web crawling to get email addresses. Anyway, if you do decide to contact me prefix your subject line with [GIT-HUB] so my email filtering can tag it so it doesn't end up getting lost somewhere.
 
+Sorry Joe Bloggs, I hope you don't have the above email address
+
 <!---
 adam3141/adam3141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
